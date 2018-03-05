@@ -9,3 +9,6 @@ indicating the files names and which algorithm should be ran . For each page req
 it was a HIT or a  Page Fault(PF) as well as the Page Fault Rate. Aditionnaly , for input3.txt , a statistics board with your results for 
 10 and 100 memory frames for both given algorithms. The project shall include one source file named page_replacement.c along with a 
 readme.txt including your implementation details and the statistics board.
+
+example calling the program through command line : 
+ergasia2 FIFO 5 input.txt output.txt , meaning run FIFO with 5 memory frames the input file name is input.txt and output is output.txt
